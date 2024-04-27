@@ -2,7 +2,7 @@
   
 # ЦИФРОВОЙ ПРОРЫВ: СЕЗОН ИИ <br> Компетентный подбор образовательных курсов
 
-<img height="300" alt="logo" src="assets/logo1.png">
+<img height="90" alt="logo" src="assets/logo1.png">
 
 </div> 
 
