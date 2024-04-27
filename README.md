@@ -74,11 +74,12 @@ python3 serverStream.py
 
 ## <a name="6">Команда </a>
 
-*Состав команды "Оседлавшие тильт"*   
+*Состав команды "Герои ML и Тильта"*   
 
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Ubludor, Маслов Денис - Fullstack-developer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Skadar7, Кузнецов Денис - ML-engineer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Llaceyne, Гулария Лана - Designer, Frontend-developer</h3>
+- <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @vseesheoleg, Сивец Олег - ML-engineer</h3>
 
 ## <a name="7">Ссылки </a>
 
